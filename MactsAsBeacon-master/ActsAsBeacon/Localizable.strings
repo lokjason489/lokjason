@@ -1,0 +1,12 @@
+//
+//  ViewController.swift
+//  macside
+//
+//  Created by CSIE on 2019/12/17.
+//  Copyright © 2019 CSIE. All rights reserved.
+//
+
+"button_start" = "Start";
+"button_stop" = "Stop";
+"title_broadcasting" = "Broadcasting";
+"title_not_broadcasting" = "Not Broadcasting";
